@@ -1,3 +1,17 @@
+Package: com.frankynouva.Melior1.0.8-1
+Version: 1.0.8-1
+Section: IOS 8/9/10
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, preferenceloader, org.thebigboss.libcolorpicker, com.frankynouva.frankynouvaRepoIcon
+Architecture: iphoneos-arm
+Filename: debs/com.repo.xarold.com.melior_1.0.8-1_iphoneos-arm.deb
+Size: 181202
+MD5sum: f4592090f75e812a22380c506b44a5bf
+Description: Custom volume HUD
+Name: Melior [Public]
+Author: Spark & Dennis Bednarz
+Depiction: https://frankynouva.github.io/depic/Melior1.0.8-1.html
+
 Package: com.frankynouva.Launchtron0.1.3
 Version: 0.1.3
 Section: IOS 8/9/10
