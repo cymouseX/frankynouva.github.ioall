@@ -1,3 +1,17 @@
+Package: com.frankynouva.Dark2.0.1
+Version: 2.0.1
+Section: IOS 8/9/10
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, com.frankynouva.frankynouvarepoicon, com.akiiimfrankyouva.frankynouvaRepoIcon
+Architecture: iphoneos-arm
+Filename: debs/com.repo.xarold.com.darkmessenger_2.0.1_iphoneos-arm.deb
+Size: 363654
+MD5sum: 8369f7a1baed7f984daac227e92516f6
+Description: JSTeam - iSPEAs - Biệt Hội Đam Mê IOS!!!!!!!!!!!!!!! Dark mode for Messenger
+Name: Dark Messenger
+Author: FoxfortMobile
+Depiction: https://frankynouva.github.io/depic/Dark2.0.1.html
+
 Package: com.frankynouva.BetterCCXI1.4.0
 Version: 1.4.0
 Section: IOS 8/9/10
