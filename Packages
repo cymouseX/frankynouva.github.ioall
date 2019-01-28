@@ -1,40 +1,30 @@
-Package: com.AKiiimFrankyN0uva.CrackTool33.0-beta8
-Name: CrackTool3 (iOS 11)
-Version: 3.0-beta8
-Architecture: iphoneos-arm
-Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Crack Tweaks on one click. arm64
-Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depiction: https://frankynouva.github.io/depic/CrackTool33.0-beta8.html
-Author: julioverne
-Section: IOS 11.3.1
-Depends: ldid (>= 1:1.2.1), sed, shell-cmds, system-cmds, uikittools (>= 1.1.4), coreutils-bin, coreutils, odcctools, com.akiiimfrankynouva.akiiimfrankynouva1.0
-Filename: /debs/CrackTool33.0-beta8.deb
-Size: 150472
-MD5sum: dd68a52b59d3a10f90176d26f1f2bd85
-
-Package: com.AKiiimFrankyN0uva.CallBar0.2-2
-Name: CallBar X
+Package: com.frankynouva.CallBar0.2-2
 Version: 0.2-2
-Architecture: iphoneos-arm
-Description:iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Don't let incoming calls interrupt you!
+Section: IOS 8/9/10
 Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
-Depiction: https://frankynouva.github.io/depic/CallBar0.2-2.html
-Author: Elias Limneos
-Section: IOS 11.3.1
-Depends: mobilesubstrate, preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0
-Filename: /debs/CallBar0.2-2.deb
-Size: 183414
-MD5sum: 044b3530a71386677e36a2de75c8872b
-
-Package: com.akiiimfrankynouva.akiiimfrankynouva1.0
-Name: AKiiim Repo Icons
-Version: 1.0
+Depends: mobilesubstrate, preferenceloader, com.akiiimfrankynouva.akiiimfrankynouva1.0, com.frankynouva.frankynouvarepoicon, com.akiiimfrankyouva.frankynouvaRepoIcon
 Architecture: iphoneos-arm
-Description: Officials AKiiim Repo Icons
-Depiction: https://frankynouva.github.io/depic/IconRepo.html
-Author: FrankyNouva
-Section: System
-Essential: yes
-Filename: /debs/IconRepo.deb
-Size: 1333202
-MD5sum: 0e0bf33a30d4263094be69064b064612
+Filename: debs/CallBar0.2-2.deb
+Size: 183462
+MD5sum: b21a490f68724760c2d29c58cbd0aadc
+Description: iSPEAs - Biệt Hội Đam Mê IOS!!!!!!!!!!!!!!! iSPEAs - Biệt Hội Đam Mê IOS!!!!!!!!!!!!!!! iSPEAs - Biệt Hội Jailbreaker!!!!!!!!!!!!!!! Don't let incoming calls interrupt you!
+Name: CallBar X
+Author: Elias Limneos
+Depiction: https://frankynouva.github.io/depic/CallBar0.2-2.html
+
+Package: apt
+Version: 1:0-23
+Priority: required
+Section: Packaging
+Maintainer: Jay Freeman (saurik) <saurik@saurik.com>
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: apt7
+Conflicts: cydia (<< 1.0.2843-1)
+Architecture: iphoneos-arm
+Filename: debs/apt_0-23_iphoneos-arm.deb
+Size: 686
+Installed-Size: 12
+MD5sum: c26a27bdd7e7edbc496ed16aafcdf408
+Description: any advanced packaging tool from Debian
+Name: APT 0.6 Transitional
+
