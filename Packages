@@ -1,3 +1,17 @@
+Package: com.frankynouva.Gyration1.0.5
+Version: 1.0.5
+Section: IOS 8/9/10
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, firmware (>= 9.0), preferenceloader, applist, com.frankynouva.RepoIcon
+Architecture: iphoneos-arm
+Filename: debs/com.cydiageek.gyration_1.0.5_iphoneos-arm.deb
+Size: 46718
+MD5sum: e09db1e01bf1802d37de1d5517422ed2
+Description: JSTeam - Enable Rotation Over All the Apps/LockScreen/HomeScreen on System Wide & More!
+Name: Gyration
+Author: CydiaGeek <lucaluca86@aol.com>
+Depiction: https://frankynouva.github.io/depic/Gyration1.0.5.html
+
 Package: com.frankynouva.Melior1.0.8-1
 Version: 1.0.8-1
 Section: IOS 8/9/10
