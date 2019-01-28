@@ -1,3 +1,17 @@
+Package: com.frankynouva.Launchtron0.1.3
+Version: 0.1.3
+Section: IOS 8/9/10
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, ws.hbang.common (>= 1.11), firmware (>= 7.0), applist, com.rpetrich.rocketbootstrap, com.frankynouva.frankynouvaRepoIcon
+Architecture: iphoneos-arm
+Filename: debs/com.repo.xarold.com.launchtron_0.1.3_iphoneos-arm.deb
+Size: 59002
+MD5sum: 37b6e5161c6debd804b229219b91a42e
+Description: Fast circular app launcher
+Name: Launchtron
+Author: Nepeta
+Depiction: https://frankynouva.github.io/depic/Launchtron0.1.3.html
+
 Package: com.frankynouva.DarkSounds1.2.6
 Version: 1.2.6
 Section: IOS 8/9/10
