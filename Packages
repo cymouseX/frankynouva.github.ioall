@@ -1,3 +1,17 @@
+Package: com.frankynouva.BetterCCXI1.4.0
+Version: 1.4.0
+Section: IOS 8/9/10
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, com.opa334.ccsupport, preferenceloader, com.frankynouva.frankynouvarepoicon, com.akiiimfrankyouva.frankynouvaRepoIcon
+Architecture: iphoneos-arm
+Filename: debs/com.repo.xarold.com.betterccxi_1.4.0_iphoneos-arm.deb
+Size: 61016
+MD5sum: 77e2d8b5d1791f188001484eec8a3864
+Description: iSPEAs - Biệt Hội Đam Mê IOS!!!!!!!!!!!!!!! iSPEAs - Biệt Hội Đam Mê IOS!!!!!!!!!!!!!!! Enhance your control center on iOS 11
+Name: BetterCCXI
+Author: ATWiiks
+Depiction: https://frankynouva.github.io/depic/BetterCCXI1.4.0.html
+
 Package: com.frankynouva.CallBar0.2-2
 Version: 0.2-2
 Section: IOS 8/9/10
