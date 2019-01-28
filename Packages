@@ -1,3 +1,17 @@
+Package: com.frankynouva.DarkSounds1.2.6
+Version: 1.2.6
+Section: IOS 8/9/10
+Maintainer: A Kiiim FrankyNouva 🇻🇳🇻🇳🇻🇳 <FrankyNouva@gmail.com>
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker, com.akiiimfrankyouva.frankynouvaRepoIcon
+Architecture: iphoneos-arm
+Filename: debs/com.repo.xarold.com.darksounds_1.2.6_iphoneos-arm.deb
+Size: 260286
+MD5sum: 1f790959c2dbc66aa79710f4000dfa08
+Description: Dark mode for Apple Music
+Name: DarkSounds
+Author: FoxfortMobile
+Depiction: https://frankynouva.github.io/depic/DarkSounds1.2.6.html
+
 Package: com.frankynouva.Dark2.0.1
 Version: 2.0.1
 Section: IOS 8/9/10
